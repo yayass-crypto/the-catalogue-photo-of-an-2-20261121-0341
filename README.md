@@ -18,6 +18,16 @@ product hero centred. The only text is product text: the brand
 "ROTARY X1", a price tag reading "$1,897", and the spec line
 "DIALS APPS · 0G · NO SIGNAL, EVER".
 
+## Why it works
+
+The joke reads at a glance, with no caption: a phone you dial like a
+1950s telephone. The brass dial is mounted on the screen where the apps
+would be, the finger is caught mid-turn, and the coiled cord — the one
+accessory — is the only thing that could ever connect it to anything.
+The styling stays straight catalogue: soft studio light, honest shadow,
+manufactured materials, a price tag. Nothing in the picture explains the
+joke; the product text is only the brand, the price, and the spec line.
+
 ## Run
 
 ```sh
